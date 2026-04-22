@@ -65,3 +65,19 @@ Geriatric care professionals, family caregivers, developers, elder law attorneys
   <br><br>
   <sub>Built with <a href="https://mama.oliwoods.ai">MAMA</a> · Powered by <a href="https://cofounder.software">CoFounder</a></sub>
 </p>
+
+## Expanded Agents (v2)
+
+| Agent | Role |
+|-------|------|
+| **CareCoordinator** | Coordinate providers, schedule appointments, manage care transitions |
+| **FallPrevention** | Home safety assessment, exercise recommendations, medical alert systems |
+| **SocialConnector** | Combat isolation — activity matching, transportation, companion programs |
+| **BenefitsMaximizer** | Medicare/Medicaid optimization, VA benefits, state programs |
+| **FamilyUpdater** | Secure family portal with health updates and care decisions |
+| **MedicationManager** | Drug interaction checker, refill tracking, pill schedule, pharmacy price comparison |
+| **TelehealthConnector** | Connect to virtual visits, help navigate telehealth platforms, tech support for video calls |
+| **MealService** | Meals on Wheels enrollment, senior nutrition programs, dietary need matching |
+| **FinancialGuard** | Monitor for elder financial exploitation, detect unusual spending, alert guardians |
+
+**9 agents. HIPAA-compliant. 911 escalation. Free forever.**
